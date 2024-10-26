@@ -20,7 +20,7 @@ This project demonstrates how to build a simple question-answering system for PD
 
 
 ```bash
-git clone <your_github_repo_url>
+git clone https://github.com/Ankitsingh0805/ChatWithPdf.git
 
 
 
